@@ -1,0 +1,6 @@
+D = input("Enter distance (miles traveled):")
+T = input("Enter time(hours)")
+D = float(D)
+T = float(T)
+S = (D/T)
+print("Speed:", S)
